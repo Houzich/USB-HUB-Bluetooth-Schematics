@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Bluetooth.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Bluetooth.SchDoc|FileName=HUB.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Bluetooth.SchDoc|FileName=MCU.SchDoc|SheetNumber= 
